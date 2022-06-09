@@ -12,7 +12,7 @@
 
 ## Available on Telegram as this is repo private [SECURITY](https://t.me/DYNASECURITY_DBOT)
 
-## This is YumiXBot  [DYNA](https://t.me/DYNA_DBOT)
+## This is Dyna Bot  [DYNA](https://t.me/DYNA_DBOT)
 
 # ❤️ Support
 <a href="https://t.me/DYNA_NETWORK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
